@@ -1,0 +1,6 @@
+{
+  "name": "Hoenn Care Games",
+  "description": "Ekstensi Owlbear Rodeo dengan dua mini game merawat Pokémon wilayah Hoenn bergaya Gen 8: Calm It Down di Petalburg Woods dan Daycare Feeding di Route 117.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
