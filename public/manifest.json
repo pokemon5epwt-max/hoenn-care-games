@@ -1,0 +1,15 @@
+{
+  "name": "Hoenn Care Games",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Dua mini game merawat Pokémon wilayah Hoenn (Calm It Down & Daycare Feeding) bergaya Gen 8 yang dipicu oleh GM untuk pemain terpilih.",
+  "icon": "/icon.svg",
+  "action": {
+    "title": "Hoenn Care Games",
+    "icon": "/icon.svg",
+    "popover": "/gm.html",
+    "height": 560,
+    "width": 380
+  },
+  "background_url": "/background.html"
+}
